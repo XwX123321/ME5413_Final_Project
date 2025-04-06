@@ -155,7 +155,7 @@ conda activate yolov5 && roslaunch yolov8_ros yolo_v8.launch
 rosrun move_demo num_count.py 
 ```
 
-### 4. 
+### 4. Launch all the core nodes
 
 The launch file is used to launch all the core nodes in the project with a single click to implement functions such as target recognition, bridge detection, coordinate conversion and master control logic.
 
