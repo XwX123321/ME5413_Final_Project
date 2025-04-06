@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/xwx/hw_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/xwx/hw_ws/src/navigation/amcl/include/**",
+        "/home/xwx/hw_ws/src/navigation/base_local_planner/include/**",
+        "/home/xwx/hw_ws/src/navigation/carrot_planner/include/**",
+        "/home/xwx/hw_ws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/xwx/hw_ws/src/navigation/costmap_2d/include/**",
+        "/home/xwx/hw_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/xwx/hw_ws/src/navigation/global_planner/include/**",
+        "/home/xwx/hw_ws/src/interactive_tools/include/**",
+        "/home/xwx/hw_ws/src/navigation/map_server/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base_flex/mbf_abstract_core/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base_flex/mbf_abstract_nav/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base_flex/mbf_costmap_core/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base_flex/mbf_costmap_nav/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base_flex/mbf_simple_nav/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base_flex/mbf_utility/include/**",
+        "/home/xwx/hw_ws/src/me5413_world/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_base/include/**",
+        "/home/xwx/hw_ws/src/move_demo/include/**",
+        "/home/xwx/hw_ws/src/navigation/move_slow_and_clear/include/**",
+        "/home/xwx/hw_ws/src/navigation/nav_core/include/**",
+        "/home/xwx/hw_ws/src/navigation/navfn/include/**",
+        "/home/xwx/hw_ws/src/navigation/navigation_layers/range_sensor_layer/include/**",
+        "/home/xwx/hw_ws/src/navigation/robot_bridge_node/include/**",
+        "/home/xwx/hw_ws/src/navigation/rotate_recovery/include/**",
+        "/home/xwx/hw_ws/src/navigation/navigation_layers/social_navigation_layers/include/**",
+        "/home/xwx/hw_ws/src/teb_local_planner-noetic-devel/include/**",
+        "/home/xwx/hw_ws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

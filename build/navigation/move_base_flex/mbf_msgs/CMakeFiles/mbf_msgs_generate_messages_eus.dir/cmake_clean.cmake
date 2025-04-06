@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/manifest.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathAction.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathActionFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathActionGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathActionResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/ExePathResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathAction.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathActionFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathActionGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathActionResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/GetPathResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseAction.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseActionFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseActionGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseActionResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/MoveBaseResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryAction.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryActionFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryActionGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryActionResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryFeedback.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryGoal.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/msg/RecoveryResult.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/srv/CheckPath.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/srv/CheckPoint.l"
+  "/home/xwx/hw_ws/devel/share/roseus/ros/mbf_msgs/srv/CheckPose.l"
+  "CMakeFiles/mbf_msgs_generate_messages_eus"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mbf_msgs_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathAction.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathActionFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathActionGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathActionResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_ExePathResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathAction.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathActionFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathActionGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathActionResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_GetPathResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseAction.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseActionFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseActionGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseActionResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_MoveBaseResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryAction.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryActionFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryActionGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryActionResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryFeedback.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryGoal.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/_RecoveryResult.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/msg/__init__.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/_CheckPath.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/_CheckPoint.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/_CheckPose.py"
+  "/home/xwx/hw_ws/devel/lib/python3/dist-packages/mbf_msgs/srv/__init__.py"
+  "CMakeFiles/mbf_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mbf_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

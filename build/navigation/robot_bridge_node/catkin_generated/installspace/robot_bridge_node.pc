@@ -1,0 +1,8 @@
+prefix=/home/xwx/hw_ws/install
+
+Name: robot_bridge_node
+Description: Description of robot_bridge_node
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

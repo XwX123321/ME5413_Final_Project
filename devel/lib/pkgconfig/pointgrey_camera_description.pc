@@ -1,0 +1,8 @@
+prefix=/home/xwx/hw_ws/devel
+
+Name: pointgrey_camera_description
+Description: Description of pointgrey_camera_description
+Version: 0.15.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

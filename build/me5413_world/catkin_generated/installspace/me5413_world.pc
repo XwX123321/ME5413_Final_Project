@@ -1,0 +1,8 @@
+prefix=/home/xwx/hw_ws/install
+
+Name: me5413_world
+Description: Description of me5413_world
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

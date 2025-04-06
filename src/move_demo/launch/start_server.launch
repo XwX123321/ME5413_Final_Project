@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<launch>	
+
+	<!--start server -->
+	<node pkg="move_demo" type="cam_to_real.py" name= "cam_to_real"/>
+    <!-- <node pkg="move_demo" type="num_count.py" name= "num_count" /> -->
+	<node pkg="move_demo" type="find_object.py" name= "find_object" />
+	<node pkg="move_demo" type="find_bridge.py" name= "find_bridge" />
+	<node pkg="move_demo" type="get_bbox.py" name= "get_bbox" />
+	<node pkg="move_demo" type="main.py" name= "main"  output="screen"/>
+
+</launch>
